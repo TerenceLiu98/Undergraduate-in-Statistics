@@ -6,15 +6,15 @@
 
 
 
-## 微積分
+## 微積分（Calculus）
 
 主要利用 `numpy` `sympy` 進行高緯度數組、矩陣運算、利用 `matplotlib` 進行函數圖形話，更加直觀的進行學習。
 
-## 線性代數
+## 線性代數（Linear Algebra）
 
 under-construction
 
- ## 高等統計
+ ## 高等統計「概率論與數理統計」（Probability and Statistics)
 
 under-construction
 
