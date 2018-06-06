@@ -24,7 +24,7 @@ under-construction
 
 
 
-*本 repo 主要有 jupyter notebook 進行書寫*
+*本 repo 使用 jupyter notebook 進行書寫*
 
 
 
