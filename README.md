@@ -2,7 +2,7 @@
 
 
 
-*利用 `python` 學習微積分（Calculus），線性代數（Linear Algebra），高等統計（Advanced statistics）等 UIC 統計學本科必修課*
+*利用 `python` 對微積分（Calculus），線性代數（Linear Algebra），高等統計（Advanced statistics）等 UIC 統計學本科必修課進行知識梳理*
 
 
 
