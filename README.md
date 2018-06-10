@@ -42,3 +42,13 @@ under-construction
 
 
 
+## Contributor
+
+<a href= "http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu</a>提出修改建议，如下：
+    1. Higher order function应为 composite function复合函数; 
+    2. Big O 那段写的不是很清楚，其实Big O主要是表示算法的计算复杂度，微积分里面用的不多; 
+    3. 切线前面可以介绍割线，再用极限的概念引入切线； 
+    4. 可加入包括原函数、一阶导和二阶导（或更高阶导）图像的图；
+    5. 常微分方程是比不定积分更“高级”的概念，最好使用微积分基本定理引入不定积分；
+    6. 可以加入曲线下（间）面积、黎曼和和定积分的关系；
+    7. 可以加入求旋转体的体积作为积分的应用
