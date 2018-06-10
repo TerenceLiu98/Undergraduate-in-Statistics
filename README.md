@@ -25,6 +25,7 @@ under-construction
 
 
 *本 repo 使用 jupyter notebook 進行書寫*
+*適合人群：已經接觸過以上課程的學習者，並對`python`有所了解*
 
 
 
