@@ -8,7 +8,17 @@
 
 ## 微積分（Calculus）
 
-主要利用 `numpy` `sympy` 進行高緯度數組、矩陣運算、利用 `matplotlib` 進行函數圖形話，更加直觀的進行學習。
+*主要利用 `numpy` `sympy` 進行高緯度數組、矩陣運算、利用 `matplotlib` 進行函數圖形話，更加直觀的進行學習。*
+
+1. What is Function
+2. Composition
+3. Euler's Formula
+4. Limits
+5. Derivative
+6. Newton's Method
+7. Optimization
+8. Integration and Differentiation
+8. Ordinary Differential Equations,ODE)
 
 ## 線性代數（Linear Algebra）
 
