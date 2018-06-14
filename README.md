@@ -22,7 +22,13 @@
 
 ## 線性代數（Linear Algebra）
 
-under-construction
+1. Chapter Zero 乘法和庫
+2. Chapter One Matrix
+3. Chapter Two Determinant
+4. Chapter Three Vector
+5. Chapter Four Vector Space
+6. Chapter Five Linear Algebra Advanced Text
+$\dots$
 
  ## 高等統計「概率論與數理統計」（Probability and Statistics)
 
