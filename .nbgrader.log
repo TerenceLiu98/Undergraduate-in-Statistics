@@ -1,0 +1,81 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/liujunjie/Self_Study
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=ea2337c52a2bd0c862bcf2677b8a43e192e0b5628878fc7a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ea2337c52a2bd0c862bcf2677b8a43e192e0b5628878fc7a&token=ea2337c52a2bd0c862bcf2677b8a43e192e0b5628878fc7a
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Creating new notebook in /jupyterfiles
+[NotebookApp | INFO] Kernel started: 1be66c57-a4e9-461e-9eda-09ae059f3873
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1be66c57-a4e9-461e-9eda-09ae059f3873
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
+[NotebookApp | INFO] Saving file at /jupyterfiles/Use PY in Advanced Statistics .ipynb
