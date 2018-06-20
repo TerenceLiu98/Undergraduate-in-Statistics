@@ -2,13 +2,18 @@
 
 
 
-*利用 `python` 對微積分（Calculus），線性代數（Linear Algebra），高等統計（Advanced statistics）等 UIC 統計學本科必修課進行知識梳理*
+*利用 `python` 對微積分（Calculus），線性代數（Linear Algebra），高等統計（Advanced statistics）等 UIC 統計學本科必修課進行知識梳理* 
+
+<br>
+<br>
+
+*主要利用 `numpy` `sympy` 進行高維度數組、矩陣運算、利用 `matplotlib` 進行函數圖形話，更加直觀的進行學習。*
 
 
 
 ## 微積分（Calculus）
 
-*主要利用 `numpy` `sympy` 進行高維度數組、矩陣運算、利用 `matplotlib` 進行函數圖形話，更加直觀的進行學習。*
+
 
 1. What is Function
 2. Composition
@@ -28,12 +33,16 @@
 4. Chapter Three Vector
 5. Chapter Four Vector Space
 6. Chapter Five Linear Algebra Advanced Text
-...
+
 
  ## 高等統計「概率論與數理統計」（Probability and Statistics)
 
-under-construction
-
+1. Chapter One Probability
+    * Random Experiment and Sample Space
+    * Random Variable
+    * Discrete Distribution and Python Code
+    * Contiuous Distribution and Python Code
+2. Chapter Two Statistics
 
 
 ---
