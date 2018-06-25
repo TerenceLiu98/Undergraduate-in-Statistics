@@ -53,7 +53,7 @@
 
 *適合人群：已經接觸過以上課程的學習者，並對`python`有所了解* <br>
 
-*I also put the .ipynb into the **colab-google**, you can try it if you want*
+*I also put the .ipynb into the <a href="https://drive.google.com/drive/folders/1b_RQ3w6QFYcjpYTY2ilsd8rXAFMZK4eV">**colab-google**</a>, you can try it if you want*
 
 
 
