@@ -39,6 +39,7 @@
 
 1. Chapter One Probability
     * Random Experiment and Sample Space
+    * Law of Total Probability and Bayes Formula
     * Random Variable
     * Discrete Distribution and Python Code
     * Contiuous Distribution and Python Code
