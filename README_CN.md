@@ -1,63 +1,65 @@
-# 'Use Python' Series
+# 使用 Python 系列
 
 
-**In this series, I will try to teach the basic knowledge in Calculus, Linear Algebra, Advanced statistics and etc. by using `python`, which are required courses in UIC.**
+
+*利用 `python` 對微積分（Calculus），線性代數（Linear Algebra），高等統計（Advanced statistics）等 UIC 統計學本科必修課進行知識梳理* 
 
 <br>
 <br>
 
-*In these articles, most of the time, I will use `numpy`, `sumpy` and `matplotlib`. We can use `numpy` and `sympy` to deal with the high dimensional array or the matrix operation easily. With `matplotlib`, we can visualize the data and this is more intuitionistic. *
+*主要利用 `numpy` `sympy` 進行高維度數組、矩陣運算、利用 `matplotlib` 進行函數圖形話，更加直觀的進行學習。*
 
 
 
-## Calculus
+## 微積分（Calculus）
 
-1. *What is Function*
-2. *Composition*
-3. *Euler's Formula*
-4. *Limits*
-5. *Derivative*
-6. *Newton's Method*
-7. *Optimization*
-8. *Integration and Differentiation*
-8. *Ordinary Differential Equations,ODE)*
 
-## Linear Algebra
 
-1. Chapter Zero *multiplication in LA and the lib we use*
-2. Chapter One *Matrix*
-3. Chapter Two *Determinant*
-4. Chapter Three *Vector*
-5. Chapter Four *Vector Space*
-6. Chapter Five *Linear Algebra Advanced Text*
+1. 什麼是函數
+2. 複合函數
+3. 歐拉公式
+4. 極限
+5. 導數
+6. 牛頓法
+7. 最優化
+8. 積分和微分
+8. 常微分方程
+
+## 線性代數（Linear Algebra）
+
+1. 第零章 *乘法和庫*
+2. 第一章 *矩陣*
+3. 第二章 *行列式*
+4. 第三章 *向量*
+5. 第四章 *向量空間*
+6. 第五章 *向量和矩陣的變化*
 
 
  ## 高等統計「概率論與數理統計」（Probability and Statistics)
 
-1. Chapter One Probability
-    * Random Experiment and Sample Space
-    * Law of Total Probability and Bayes Formula
-    * Random Variable
-    * Discrete Distribution and Python Code
-    * Contiuous Distribution and Python Code
-2. Chapter Two Statistics
+1. 第一章 概率論
+    * 随机实验和样本空间
+    * 总概率定律和贝叶斯公式
+    * 随机变量
+    * 离散分布和Python代码
+    * 连续分布和Python代码
+2. 第二章 數理統計
 
 
 ---
 
 
-*This repo is writen with jupyter notebook*
+
 *本 repo 使用 jupyter notebook 進行書寫* <br>
 
-Who is suitable for this lesson?
-*Those who are interested in both statistics and `python`* <br>
+*適合人群：已經接觸過以上課程的學習者，並對`python`有所了解* 或者對 <br>
 
 *I also put the .ipynb into the <a href="https://drive.google.com/drive/folders/1b_RQ3w6QFYcjpYTY2ilsd8rXAFMZK4eV">**colab-google**</a>, you can try it if you want*
 
 
 
 
-## Reference
+## 參考文獻
 
 > <a href="https://ryancheunggit.gitbooks.io/calculus-with-python/content/01Functions.html"> 用 python 学微积分 </a> 
 >
@@ -71,9 +73,9 @@ Who is suitable for this lesson?
 
 
 
-## Contributor
+## 贡献者
 
-<a href= "http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu</a> put forward a amendments：
+<a href= "http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu</a>提出修改建议，如下：
 
 >    1. Higher order function应为 composite function复合函数; <br>
 >    2. Big O 那段写的不是很清楚，其实Big O主要是表示算法的计算复杂度，微积分里面用的不多; <br>
@@ -83,5 +85,4 @@ Who is suitable for this lesson?
 >    6. 可以加入曲线下（间）面积、黎曼和和定积分的关系；<br>
 >    7. 可以加入求旋转体的体积作为积分的应用<br>
 
-
-**中文版文檔請看：<a href="https://github.com/TerenceLiu98/Using-Python-Series/blob/master/README_CN.md"> README_CN </a>
+*已進行修改*
