@@ -32,7 +32,7 @@
 6. Chapter Five *Linear Algebra Advanced Text*
 
 
- ## 高等統計「概率論與數理統計」（Probability and Statistics)
+ ## Advanced Statistics（Probability and Statistics)
 
 1. Chapter One Probability
     * Random Experiment and Sample Space
@@ -47,7 +47,6 @@
 
 
 *This repo is writen with jupyter notebook*
-*本 repo 使用 jupyter notebook 進行書寫* <br>
 
 Who is suitable for this lesson?
 *Those who are interested in both statistics and `python`* <br>
@@ -74,7 +73,7 @@ Who is suitable for this lesson?
 ## Contributor
 
 <a href= "http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu</a> put forward a amendments：
-
+`
 >    1. Higher order function应为 composite function复合函数; <br>
 >    2. Big O 那段写的不是很清楚，其实Big O主要是表示算法的计算复杂度，微积分里面用的不多; <br>
 >    3. 切线前面可以介绍割线，再用极限的概念引入切线；<br> 
