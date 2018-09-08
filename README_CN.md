@@ -52,7 +52,7 @@
 
 *本 repo 使用 jupyter notebook 進行書寫* <br>
 
-*適合人群：已經接觸過以上課程的學習者，並對`python`有所了解* 或者對 <br>
+*適合人群：已經接觸過以上課程的學習者，並對`python`有所了解* 或者對 `python`感兴趣的人 <br>
 
 *I also put the .ipynb into the <a href="https://drive.google.com/drive/folders/1b_RQ3w6QFYcjpYTY2ilsd8rXAFMZK4eV">**colab-google**</a>, you can try it if you want*
 
