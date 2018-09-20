@@ -2,7 +2,7 @@
 
 
 
-*利用 `python` 對微積分（Calculus），線性代數（Linear Algebra），高等統計（Advanced statistics）等 UIC 統計學本科必修課進行知識梳理* 
+*利用 `python` 對微積分（Calculus），線性代數（Linear Algebra），高等統計（Advanced statistics）等 UIC 統計學本科必修課進行知識梳理*
 
 <br>
 <br>
@@ -38,12 +38,21 @@
  ## 高等統計「概率論與數理統計」（Probability and Statistics)
 
 1. 第一章 概率論
-    * 随机实验和样本空间
-    * 总概率定律和贝叶斯公式
-    * 随机变量
-    * 离散分布和Python代码
-    * 连续分布和Python代码
+    * 隨機試驗何樣本空間
+    * 總概率定律何貝葉斯公式
+    * 隨機變量
+    * 離散分佈和 Python 代碼
+    * 連續分佈和 Python 代碼
 2. 第二章 數理統計
+
+## 貝葉斯統計
+
+1. 第一章 *回顧與複習*
+  * 暫略
+2. 第二章 *介紹*
+  * 條件概率
+  * 條件概率
+  * 貝葉斯定理
 
 
 ---
@@ -61,7 +70,7 @@
 
 ## 參考文獻
 
-> <a href="https://ryancheunggit.gitbooks.io/calculus-with-python/content/01Functions.html"> 用 python 学微积分 </a> 
+> <a href="https://ryancheunggit.gitbooks.io/calculus-with-python/content/01Functions.html"> 用 python 学微积分 </a>
 >
 > <a href="http://www.hahack.com/math/math-matrix/">机器学习的数学基础：矩阵篇</a>
 >
@@ -70,6 +79,7 @@
 > <a href="http://www.hahack.com/math/math-linear-algebra-graded/"> 机器学习的数学基础：线性代数进阶篇</a>
 >
 > <a href="https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning"> Python-for-Probability-Statistics-and-Machine-Learning</a>
+> <a href="https://greenteapress.com/wp/think-bayes/"> Think bayes </a>
 
 
 
@@ -79,7 +89,7 @@
 
 >    1. Higher order function应为 composite function复合函数; <br>
 >    2. Big O 那段写的不是很清楚，其实Big O主要是表示算法的计算复杂度，微积分里面用的不多; <br>
->    3. 切线前面可以介绍割线，再用极限的概念引入切线；<br> 
+>    3. 切线前面可以介绍割线，再用极限的概念引入切线；<br>
 >    4. 可加入包括原函数、一阶导和二阶导（或更高阶导）图像的图；<br>
 >    5. 常微分方程是比不定积分更“高级”的概念，最好使用微积分基本定理引入不定积分；<br>
 >    6. 可以加入曲线下（间）面积、黎曼和和定积分的关系；<br>
