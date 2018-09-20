@@ -76,6 +76,7 @@ Who is suitable for this lesson?
 > <a href="http://www.hahack.com/math/math-linear-algebra-graded/"> 机器学习的数学基础：线性代数进阶篇</a>
 >
 > <a href="https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning"> Python-for-Probability-Statistics-and-Machine-Learning</a>
+>
 > <a href="https://greenteapress.com/wp/think-bayes/"> Think bayes </a>
 
 
