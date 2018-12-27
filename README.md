@@ -50,7 +50,21 @@
   * Conditional Probability
   * Conjoint Probability
   * Bayes's Theorem
+(in this semester, we has finished Bayesian Analysis course, but the course is to use ` R ` language as auxiliary material. I am  now looking for Bayes theorem related python data, Think the Bayes too simple)
 
+## Regression Analysis
+
+* Although this course's recommanded language is `R`, and you can check the `R` code in <a href ="https://github.com/TerenceLiu98/Using-R-Series"> Using-R-Series </a> I will rewrite it in `Python`*
+1. Chapter One *Introduction*
+2. Chapter Two *Simple Linear Regression*
+3. Chapter Three *Multiple Linear Regression*
+4. Chapter Four *Model Adjusting*
+5. Chapter Five *Model Diagnositc*
+
+## Optimization (Convex Optimization)
+
+* Although this course's recommanded language is `MATLAB`, and you can check the `MATLAB` code in <a href ="https://github.com/TerenceLiu98/Using-MATLAB-Series"> Using-R-Series </a> I will rewrite it in `Python`*
+1. Chapter One *Introduction*
 
 ---
 

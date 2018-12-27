@@ -53,7 +53,7 @@
   * 條件概率
   * 條件概率
   * 貝葉斯定理
-
+（本学习的已进行完 Bayesian Analysis 的课程，但是由于课程是利用 `R` 语言作为辅助，现在正在寻找 Bayes 相关的 python 资料，Think Bayes 过于简单）
 
 ---
 
