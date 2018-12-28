@@ -54,7 +54,7 @@
 
 ## Regression Analysis
 
-* Although this course's recommanded language is `R`, and you can check the `R` code in <a href ="https://github.com/TerenceLiu98/Using-R-Series"> Using-R-Series </a> I will rewrite it in `Python`*
+*Although this course's recommanded language is `R`, and you can check the `R` code in <a href ="https://github.com/TerenceLiu98/Using-R-Series"> Using-R-Series </a> I will rewrite it in `Python`*
 1. Chapter One *Introduction*
 2. Chapter Two *Simple Linear Regression*
 3. Chapter Three *Multiple Linear Regression*
@@ -63,7 +63,7 @@
 
 ## Optimization (Convex Optimization)
 
-* Although this course's recommanded language is `MATLAB`, and you can check the `MATLAB` code in <a href ="https://github.com/TerenceLiu98/Using-MATLAB-Series"> Using-R-Series </a> I will rewrite it in `Python`*
+*Although this course's recommanded language is `MATLAB`, and you can check the `MATLAB` code in <a href ="https://github.com/TerenceLiu98/Using-MATLAB-Series"> Using-R-Series </a> I will rewrite it in `Python`*
 1. Chapter One *Introduction*
 
 ---
