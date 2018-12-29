@@ -94,6 +94,8 @@ Who is suitable for this lesson?
 > <a href="https://greenteapress.com/wp/think-bayes/"> Think bayes </a>
 >
 > <a href="http://item.jd.com/12019664.html"> 统计分布 [Statistical Distribution] Written by Prof.Kai Tai Fang, Prof.Jian Lun Xu </a>
+>
+> <a href="https://www.amazon.cn/dp/B073LBYPZ4/ref=sr_1_1?ie=UTF8&qid=1546071311&sr=8-1&keywords=陈希儒"> 概率论与数理统计 [Probailities and Statistics] Written by Prof Xi Ru Chen </a> 
 
 
 
