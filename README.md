@@ -92,6 +92,8 @@ Who is suitable for this lesson?
 > <a href="https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning"> Python-for-Probability-Statistics-and-Machine-Learning</a>
 >
 > <a href="https://greenteapress.com/wp/think-bayes/"> Think bayes </a>
+>
+> <a href="http://item.jd.com/12019664.html"> 统计分布 [Statistical Distribution] Written by Prof.Kai Tai Fang, Prof.Jian Lun Xu </a>
 
 
 
