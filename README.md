@@ -99,7 +99,9 @@ Who is suitable for this lesson?
 
 
 
-## Contributor
+## Contributors
+* <a href="http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu </a>
+* <a href="https://ecwuuuuu.com"> ECWU </a> 
 
 <a href= "http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu</a> put forward a amendments：
 `
@@ -111,5 +113,8 @@ Who is suitable for this lesson?
 >    6. 可以加入曲线下（间）面积、黎曼和和定积分的关系；<br>
 >    7. 可以加入求旋转体的体积作为积分的应用<br>
 
+## Wiki 
+
+* <a href="https://github.com/TerenceLiu98/Using-Python-Series/wiki/"> Wiki </a>
 
 **中文版文檔請看：<a href="https://github.com/TerenceLiu98/Using-Python-Series/blob/master/README_CN.md"> README_CN </a>**

@@ -90,6 +90,9 @@
 
 
 ## 贡献者
+* <a href="http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu </a>
+* <a href="https://ecwuuuuu.com"> ECWU </a> 
+
 
 <a href= "http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu</a>提出修改建议，如下：
 
@@ -102,3 +105,7 @@
 >    7. 可以加入求旋转体的体积作为积分的应用<br>
 
 *已進行修改*
+
+## Wiki 
+
+* <a href="https://github.com/TerenceLiu98/Using-Python-Series/wiki/"> Wiki </a>
