@@ -50,7 +50,7 @@
   * Conditional Probability
   * Conjoint Probability
   * Bayes's Theorem
-(in this semester, we has finished Bayesian Analysis course, but the course is to use ` R ` language as auxiliary material. I am  now looking for Bayes theorem related python data, Think the Bayes too simple)
+(in this semester, we has finished Bayesian Analysis course, but the course is to use ` R ` language as auxiliary material. I am  now looking for Bayes theorem related python, Think Bayes too simple)
 
 ## Regression Analysis
 
@@ -96,7 +96,8 @@ Who is suitable for this lesson?
 > <a href="http://item.jd.com/12019664.html"> 统计分布 [Statistical Distribution] Written by Prof.Kai Tai Fang, Prof.Jian Lun Xu </a>
 >
 > <a href="https://www.amazon.cn/dp/B073LBYPZ4/ref=sr_1_1?ie=UTF8&qid=1546071311&sr=8-1&keywords=陈希儒"> 概率论与数理统计 [Probailities and Statistics] Written by Prof Xi Ru Chen </a> 
-
+>
+> <a href="https://stackabuse.com/linear-regression-in-python-with-scikit-learn/"> Linear Regression in Python with Scikit-Learn </a> 
 
 
 ## Contributors

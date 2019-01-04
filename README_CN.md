@@ -85,6 +85,8 @@
 > <a href="http://item.jd.com/12019664.html"> 统计分布 [Statistical Distribution] 方开泰教授 王元教授 </a>
 >
 > <a href="https://www.amazon.cn/dp/B073LBYPZ4/ref=sr_1_1?ie=UTF8&qid=1546071311&sr=8-1&keywords=陈希儒"> 概率论与数理统计 [Probailities and Statistics] 陈希孺教授 </a> 
+>
+> <a href="https://stackabuse.com/linear-regression-in-python-with-scikit-learn/"> Linear Regression in Python with Scikit-Learn </a> 
 
 
 
