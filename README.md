@@ -1,4 +1,9 @@
-# 'Use Python' Series
+# Undergraduate-in-Statistics
+
+**Original Name: Using-X-Series**
+*The idea of using the new name is that, I am trying to combine all the course during the statistsics's bacholar period, not only using `python`, `R` or `MATLAB`, in fact this programming language are all important*
+
+Also, Happy 2020, I will try to finish this project before the end of 2020! 
 
 
 **In this series, I will try to teach the basic knowledge in Calculus, Linear Algebra, Advanced statistics and etc. by using `python`, which are required courses in UIC.**
