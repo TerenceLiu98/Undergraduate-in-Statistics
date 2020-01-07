@@ -131,3 +131,7 @@ Who is suitable for this lesson?
 * <a href="https://github.com/TerenceLiu98/Using-Python-Series/wiki/"> Wiki </a>
 
 **中文版文檔請看：<a href="https://github.com/TerenceLiu98/Using-Python-Series/blob/master/README_CN.md"> README_CN </a>**
+
+If you like it, you can buy me a coffee!
+
+<a href="https://www.buymeacoffee.com/bMvSzyqnC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 217px !important;" ></a>
