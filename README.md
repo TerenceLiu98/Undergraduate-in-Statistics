@@ -57,13 +57,6 @@ Also, Happy 2020, I will try to finish this project before the end of 2020!
   * Bayes's Theorem
 (in this semester, we has finished Bayesian Analysis course, but the course is to use ` R ` language as auxiliary material. I am  now looking for Bayes theorem related python, Think Bayes too simple)
 
-## Data Mining with Python 
-
-### Classification 
-1. Naive Bayes & Baysian Belief Network
-2. 
-### Clustering 
-
 ## Regression Analysis
 
 *Although this course's recommanded language is `R`, and you can check the `R` code in <a href ="https://github.com/TerenceLiu98/Using-R-Series"> Using-R-Series </a> I will rewrite it in `Python`*
@@ -75,18 +68,24 @@ Also, Happy 2020, I will try to finish this project before the end of 2020!
 
 ## Optimization (Convex Optimization)
 
-*Although this course's recommanded language is `MATLAB`, and you can check the `MATLAB` code in <a href ="https://github.com/TerenceLiu98/Using-MATLAB-Series"> Using-R-Series </a> I will rewrite it in `Python`*
-1. Chapter One *Introduction*
 
+## Data Mining with Python 
+
+### Introduction 
+
+What is data mining?
+
+### Data 
+1. Types of Data
+2. Data Quality 
 ---
 
 
-*This repo is writen with jupyter notebook*
+* This repo is writen with jupyter notebook*
 
-Who is suitable for this lesson?
-*Those who are interested in both statistics and `python`* <br>
+* Who is suitable for this lesson? *Those who are interested in both statistics and `python`* <br>
 
-*I also put the .ipynb into the <a href="https://drive.google.com/drive/folders/1b_RQ3w6QFYcjpYTY2ilsd8rXAFMZK4eV">**colab-google**</a>, you can try it if you want*
+* Since `Colab-Google` cannot run `iRkernel`, please use your own `Jupyter-Notebook`
 
 
 

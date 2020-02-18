@@ -55,15 +55,26 @@
   * 貝葉斯定理
 （本学习的已进行完 Bayesian Analysis 的课程，但是由于课程是利用 `R` 语言作为辅助，现在正在寻找 Bayes 相关的 python 资料，Think Bayes 过于简单）
 
+## 數據挖掘
+
+### 簡介
+
+什麼是數據挖掘
+
+### 數據
+
+1. 數據的類型
+2. 數據的質量
+
 ---
 
 
 
-*本 repo 使用 jupyter notebook 進行書寫* <br>
+* 本 repo 使用 jupyter notebook 進行書寫* <br>
 
-*適合人群：已經接觸過以上課程的學習者，並對`python`有所了解* 或者對 `python`感兴趣的人 <br>
+* 適合人群：已經接觸過以上課程的學習者，並對`python`有所了解* 或者對 `python`感兴趣的人 <br>
 
-*I also put the .ipynb into the <a href="https://drive.google.com/drive/folders/1b_RQ3w6QFYcjpYTY2ilsd8rXAFMZK4eV">**colab-google**</a>, you can try it if you want*
+* 由於 Colab-Google 無法加在 `iRkernel`， 建議使用者自備 `Jupyter-Notebook`
 
 
 
