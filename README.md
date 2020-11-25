@@ -114,6 +114,7 @@ What is data mining?
 ## Contributors
 * <a href="http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu </a>
 * <a href="https://ecwuuuuu.com"> ECWU </a> 
+* <a href='https://github.com/bkbncn'> bkbncn </a>
 
 <a href= "http://dst.uic.edu.hk/cn/stat/staff/52-statistics-cn/859-dr-wu-jingjin-timothy"> Timothy Wu</a> put forward a amendments：
 `
