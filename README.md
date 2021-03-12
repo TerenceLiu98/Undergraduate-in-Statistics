@@ -110,7 +110,7 @@ What is data mining?
 >
 > <a href="https://stackabuse.com/linear-regression-in-python-with-scikit-learn/"> Linear Regression in Python with Scikit-Learn </a> 
 > 
-> [Data Mining][https://github.com/mhahsler/Introduction_to_Data_Mining_R_Examples]
+> <a href="https://github.com/mhahsler/Introduction_to_Data_Mining_R_Examples"> Introduction to Data Mining </a>
 
 
 ## Contributors
