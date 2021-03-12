@@ -109,6 +109,8 @@ What is data mining?
 > <a href="https://www.amazon.cn/dp/B073LBYPZ4/ref=sr_1_1?ie=UTF8&qid=1546071311&sr=8-1&keywords=陈希儒"> 概率论与数理统计 [Probailities and Statistics] Written by Prof Xi Ru Chen </a> 
 >
 > <a href="https://stackabuse.com/linear-regression-in-python-with-scikit-learn/"> Linear Regression in Python with Scikit-Learn </a> 
+> 
+> [Data Mining][https://github.com/mhahsler/Introduction_to_Data_Mining_R_Examples]
 
 
 ## Contributors
