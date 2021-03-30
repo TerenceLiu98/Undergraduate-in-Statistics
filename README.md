@@ -3,15 +3,17 @@
 **Original Name: Using-X-Series**
 *The idea of using the new name is that, I am trying to combine all the course during the statistsics's bacholar period, not only using `python`, `R` or `MATLAB`, in fact this programming language are all important*
 
-Also, Happy 2020, I will try to finish this project before the end of 2020! 
+Also, Happy 2020, I will try to finish this project before the end of 2020! (not finished, and continue in 2021)
+
+What's more, I have removed the topic `Data Mining`, I thought there are multiple name in this area, "Data Mining", "Data Analysis", "Machine Learning", "Statistical Learning". Overall, there are very similar with tiny differences. In the new version, I would like to use "Statistical Learning" instead of other name.
 
 
-**In this series, I will try to teach the basic knowledge in Calculus, Linear Algebra, Advanced statistics and etc. by using `python`, which are required courses in UIC.**
+**In this series, I will try to teach the basic knowledge in Calculus, Linear Algebra, Advanced statistics and etc., which are required courses in UIC.** 
 
 <br>
 <br>
 
-*In these articles, most of the time, I will use `numpy`, `sumpy` and `matplotlib`. We can use `numpy` and `sympy` to deal with the high dimensional array or the matrix operation easily. With `matplotlib`, we can visualize the data and this is more intuitionistic. *
+*In these articles, most of the time, I will use `numpy`, `sumpy` and `matplotlib`. We can use `numpy` and `scipy` to deal with the high dimensional array or the matrix operation easily. With `matplotlib`, we can visualize the data and this is more intuitionistic. *
 
 
 
@@ -57,35 +59,16 @@ Also, Happy 2020, I will try to finish this project before the end of 2020!
   * Bayes's Theorem
 (in this semester, we has finished Bayesian Analysis course, but the course is to use ` R ` language as auxiliary material. I am  now looking for Bayes theorem related python, Think Bayes too simple)
 
-## Regression Analysis
-
-*Although this course's recommanded language is `R`, and you can check the `R` code in <a href ="https://github.com/TerenceLiu98/Using-R-Series"> Using-R-Series </a> I will rewrite it in `Python`*
-1. Chapter One *Introduction*
-2. Chapter Two *Simple Linear Regression*
-3. Chapter Three *Multiple Linear Regression*
-4. Chapter Four *Model Adjusting*
-5. Chapter Five *Model Diagnositc*
-
-## Optimization (Convex Optimization)
+## Statistical Learning 
 
 
-## Data Mining with Python 
-
-### Introduction 
-
-What is data mining?
-
-### Data 
-1. Types of Data
-2. Data Quality 
----
 
 
 * This repo is writen with jupyter notebook*
 
 * Who is suitable for this lesson? *Those who are interested in both statistics and `python`* <br>
 
-* Since `Colab-Google` cannot run `iRkernel`, please use your own `Jupyter-Notebook`
+* After the note finish, I would upload it to the google colab with Gdrive sharelink
 
 
 
@@ -111,6 +94,8 @@ What is data mining?
 > <a href="https://stackabuse.com/linear-regression-in-python-with-scikit-learn/"> Linear Regression in Python with Scikit-Learn </a> 
 > 
 > <a href="https://github.com/mhahsler/Introduction_to_Data_Mining_R_Examples"> Introduction to Data Mining </a>
+>
+> <a href="https://www.statlearning.com/"> Introduction to Statsitcal Learning with R *aka ISLR* </a>
 
 
 ## Contributors
