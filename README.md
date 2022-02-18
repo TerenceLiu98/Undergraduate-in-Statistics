@@ -68,8 +68,6 @@ What's more, I have removed the topic `Data Mining`, I thought there are multipl
 
 * Who is suitable for this lesson? *Those who are interested in both statistics and `python`* <br>
 
-* After the note finish, I would upload it to the google colab with Gdrive sharelink
-
 
 
 
